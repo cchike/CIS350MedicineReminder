@@ -25,7 +25,8 @@
         </activity>
         <activity android:name="edu.upenn.medicinereminder.UserInfoActivity"></activity>
         <activity android:name="edu.upenn.medicinereminder.Appointments"></activity>
-        <activity android:name="edu.upenn.medicinereminder.SetRefills"></activity>
+        <activity android:name="edu.upenn.medicinereminder.SetReminderActivity"></activity>
+        <activity android:name="edu.upenn.medicinereminder.MedicationActivity"></activity>
         
     </application>
 
