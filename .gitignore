@@ -234,3 +234,5 @@ bin/classes/edu/upenn/medicinereminder/UserInfoActivity.class
 gen/edu/upenn/medicinereminder/R.java
 
 *.class
+
+bin/classes/edu/upenn/medicinereminder/R$id.class
