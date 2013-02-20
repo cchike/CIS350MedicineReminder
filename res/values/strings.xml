@@ -12,5 +12,7 @@
     <string name="gain">Gain points and stay healthy. </string>
     <string name="click">Click start to signup.</string>
     <string name="reminder">What message should appear when you are reminded?</string>
-
+    <string name="whatmeds">What meds do you take?</string>
+	<string name="whenmeds">When do you take your meds?</string>
+    
 </resources>
