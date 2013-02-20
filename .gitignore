@@ -218,3 +218,17 @@ pip-log.txt
 bin/classes/edu/upenn/medicinereminder/R$string.class
 
 bin/classes/edu/upenn/medicinereminder/R$style.class
+
+*.class
+
+bin/classes/edu/upenn/medicinereminder/R$layout.class
+
+*.class
+
+*.class
+
+bin/classes/edu/upenn/medicinereminder/R$menu.class
+
+bin/classes/edu/upenn/medicinereminder/UserInfoActivity.class
+
+gen/edu/upenn/medicinereminder/R.java
