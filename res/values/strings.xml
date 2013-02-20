@@ -14,5 +14,19 @@
     <string name="reminder">What message should appear when you are reminded?</string>
     <string name="whatmeds">What meds do you take?</string>
 	<string name="whenmeds">When do you take your meds?</string>
+	<string name="home">Home</string>
+	<string name="editmenu">Edit Menu</string>
+	<string name="takeoption">Take Option</string>
+	<string name="edit">Edit Menu</string>
+	<string name="basicinfo">Basic Info</string>
+	<string name="appointments">Appointments</string>
+	<string name="reminders">Reminders</string>
+	<string name="medications">Medications</string>
+	<string name="refills">Refills</string>
+	<string name="took">Took</string>
+	<string name="nottaken">Not Taken</string>
+	<string name="snooze">Snooze</string>
+	<string name="pillcam">PillCam</string>
+	<string />
     
 </resources>
