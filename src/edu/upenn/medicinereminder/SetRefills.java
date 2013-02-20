@@ -3,9 +3,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-public class SetRefiils {
-
-	public class SetRefills extends Activity {
+public class SetRefills extends Activity {
 
 		@Override
 		protected void onCreate(Bundle savedInstanceState) {
@@ -20,5 +18,4 @@ public class SetRefiils {
 			return true;
 		}
 
-	}
 }
