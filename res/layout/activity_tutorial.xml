@@ -22,5 +22,29 @@
         android:layout_marginTop="16dp"
         android:src="@drawable/homescreen" />
     
+    <Button android:id="@+id/signup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Signup"
+        android:layout_gravity="center_horizontal|center"
+        android:onClick="onCalButtonClick" 
+        />
+    
+    <Button android:id="@+id/takemeds"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Take Meds"
+        android:layout_gravity="center_horizontal|center"
+        android:onClick="onContButtonClick" 
+        />
+    
+    <Button android:id="@+id/chekcprogress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Check Progress"
+        android:layout_gravity="center_horizontal|center"
+        android:onClick="onContButtonClick" 
+        />
+    
 
 </LinearLayout>
