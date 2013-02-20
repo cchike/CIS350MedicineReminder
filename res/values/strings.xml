@@ -11,5 +11,6 @@
     <string name="using">Using this app, you can keep up with your meds, refills, and appointments.</string>
     <string name="gain">Gain points and stay healthy. </string>
     <string name="click">Click start to signup.</string>
+    <string name="reminder">What message should appear when you are reminded?</string>
 
 </resources>

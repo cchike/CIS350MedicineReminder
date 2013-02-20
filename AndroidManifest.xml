@@ -24,6 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name="edu.upenn.medicinereminder.UserInfoActivity"></activity>
+        <activity android:name="edu.upenn.medicinereminder.Appointments"></activity>
         
     </application>
 
