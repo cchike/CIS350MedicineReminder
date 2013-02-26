@@ -236,3 +236,7 @@ gen/edu/upenn/medicinereminder/R.java
 *.class
 
 bin/classes/edu/upenn/medicinereminder/R$id.class
+
+bin/HomeActivity.apk
+
+bin/classes.dex
